@@ -47,6 +47,7 @@ hide:
 
   </div>
 
+<!--
   <p style="text-align: left;"><strong><font size="4">Certifications</p></strong></font>
 
   <div class="grid cards" markdown>
@@ -56,5 +57,5 @@ hide:
   - :simple-comptia: __CompTIA Security+__[![Verify CompTIA Security+ credential](images/security-plus.png#center){ width="256"}](https://cp.certmetrics.com/comptia/en/public/verify/credential/d64b572897a4434a91cf792ec47ac24d)
 
   </div>
-  
+-->
 </div>
