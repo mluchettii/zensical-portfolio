@@ -183,7 +183,7 @@ I want to give credit to [Mariskarthick M.](https://n8n.io/workflows/6978-automa
 ### n8n workflow
 
 <figure markdown>
-[![alt text](../../screenshots/n8n-01.png#center){.shadowed-image style="width: 90%;"}](../../screenshots/n8n-01.png)
+![alt text](../../screenshots/n8n-01.png#center){.shadowed-image style="width: 90%;"}
 <figcaption markdown class="annotate">View/download the workflow JSON [here](n8n-workflows/wazuh-hybrid-soar.json)</figcaption>
 </figure>
 
