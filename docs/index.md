@@ -31,7 +31,7 @@ hide:
 - :fontawesome-solid-briefcase: <a href=https://mluchetti.com/projects/professional/zolon>**Internship Projects**</a>
 - :fontawesome-solid-user: <a href=https://mluchetti.com/docs/homelab>**Personal Projects**</a>
 - :fontawesome-brands-linkedin: <a href="https://linkedin.com/in/marcos-luchetti">**LinkedIn**</a>
-- :fontawesome-brands-github: <a href="https://github.com/mluchettii>"**GitHub**</a>
+- :fontawesome-brands-github: <a href="https://github.com/mluchettii">**GitHub**</a>
 - :fontawesome-solid-envelope: <a href="mailto:mluchettim@gmail.com">**E-Mail**</a>
 
   </div>
