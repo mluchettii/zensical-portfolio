@@ -27,8 +27,8 @@ hide:
 
   <div class="grid cards" markdown>
 
+- :fontawesome-solid-briefcase: <a href=https://mluchetti.com/projects/professional/zolon>**Professional Projects**</a>
 - :fontawesome-solid-building-columns: <a href=https://mluchetti.com/projects/academic/odu>**Academic Projects**</a>
-- :fontawesome-solid-briefcase: <a href=https://mluchetti.com/projects/professional/zolon>**Internship Projects**</a>
 - :fontawesome-solid-user: <a href=https://mluchetti.com/docs/homelab>**Personal Projects**</a>
 - :fontawesome-brands-linkedin: <a href="https://linkedin.com/in/marcos-luchetti">**LinkedIn**</a>
 - :fontawesome-brands-github: <a href="https://github.com/mluchettii">**GitHub**</a>

@@ -14,7 +14,7 @@
 
     [:octicons-arrow-right-24: View Wazuh SIEM Project](../../docs/security/wazuh.md)
 
--   :lucide-hexagon:{ .lg .middle } __Vulnerability Management Lab__
+-   :lucide-hexagon:{ .lg .middle } __Vulnerability Management__
 
     ---
 
