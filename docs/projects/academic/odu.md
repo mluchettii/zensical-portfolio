@@ -1,8 +1,8 @@
-# Old Dominion University Projects
+# Old Dominion University
 
 <div class="grid cards" markdown>
 
--   :material-network:{ .lg .middle } __Maury High School Network Infrastructure__
+-   :material-network:{ .lg .middle } __School Network Infrastructure__
 
     ---
 
@@ -10,7 +10,7 @@
 
     [:octicons-arrow-right-24: View Project](pdf/IT-315-Case-Analysis-Luchetti.pdf)
 
--   :material-shield-lock:{ .lg .middle } __Strome College Security Infrastructure__
+-   :material-shield-lock:{ .lg .middle } __College Security Infrastructure__
 
     ---
 
@@ -18,7 +18,7 @@
 
     [:octicons-arrow-right-24: View Project](pdf/IT-417-Group-Project-Luchetti.pdf)
 
--   :material-server-network:{ .lg .middle } __Windows Server 2019 Network Administration__
+-   :material-server-network:{ .lg .middle } __Windows Server Network Administration__
 
     ---
 

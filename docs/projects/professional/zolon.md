@@ -1,4 +1,4 @@
-# Zolon Tech Inc. Internship Projects
+# Zolon Tech Inc.
 
 <div class="grid cards" markdown>
 
@@ -22,7 +22,7 @@
 
     [:octicons-arrow-right-24: View Nessus Project](../../docs/security/nessus.md)
 
--   :simple-n8n:{ .lg .middle } __Automated Alert Triage__
+-   :simple-n8n:{ .lg .middle } __Alert Triage Automation__
 
     ---
 

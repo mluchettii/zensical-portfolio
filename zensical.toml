@@ -90,8 +90,8 @@ nav = [
             ]}
     ]},
     { "Projects" = [
-        { "Old Dominion University" = "projects/odu/odu.md"},
-        { "Zolon Tech Inc." = "projects/zolon/zolon.md"}
+        { "Academic" = "projects/academic/odu.md"},
+        { "Professional" = "projects/professional/zolon.md"}
     ]}
     #{ "Skills" = "skills.md" }
     #]}
@@ -425,7 +425,7 @@ link = "https://www.linkedin.com/in/marcos-luchetti/"
 icon = "fontawesome/brands/github"
 link = "https://github.com/mluchettii"
 [[project.extra.social]]
-icon = "fontawesome/regular/envelope"
+icon = "fontawesome/solid/envelope"
 link = "mailto:mluchettim@gmail.com"
 [project.extra]
 generator = false
